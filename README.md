@@ -52,8 +52,9 @@ Aqui tem link de algumas das tecnologias utilizada no projeto.
 -   [API FINNHUD](https://finnhub.io/)
 
 ## ✅ Instrução de como obter a URL e TOKEN;
+
+Url e Token da api, tem que realizar o cadastro no site e obter atraves do seu cadastro;
 ```bash
-    Url e Token da api, tem que realizar o cadastro no site e obter atraves do seu cadastro;
     private var url = ""
     private var token = ""
 ```
