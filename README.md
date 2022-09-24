@@ -51,6 +51,13 @@ Aqui tem link de algumas das tecnologias utilizada no projeto.
 -   [SWFITUI](https://developer.apple.com/xcode/swiftui/)
 -   [API FINNHUD](https://finnhub.io/)
 
+## ✅ Instrução de como obter a URL e TOKEN;
+```bash
+    Url e Token da api, tem que realizar o cadastro no site e obter atraves do seu cadastro;
+    private var url = ""
+    private var token = ""
+```
+
 ### Developer
 
 ---
